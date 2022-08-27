@@ -1,0 +1,10 @@
+*{
+    padding: 0px;
+    margin:0px;
+    font-style: italic;
+    font-size: large;
+}
+.header{
+    background-image: url('./images/about.jpg');
+    text-align: center;
+}
